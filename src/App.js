@@ -44,23 +44,7 @@ function App() {
         }}
       />
 
-      
-      {/* {student.filter(item =>{
-        if(search ==""){
-          return item;
-        }
-        else if (item.name.toLowerCase().includes(search.toLowerCase())){
-          return item;
-        }
-      }).
-      map((item) => {
-        return (
-          <p>
-            {item.id}- {item.name} {item.surname} - {item.gradeAverage}
-          </p>
-        );
-
-      })} */}
+     
 
 
   
